@@ -72,15 +72,16 @@ This project showcases advanced SQL Server programming with stored procedures, t
 
 ---
 
-## 👤 Team Members
-###Mohammad Anwar Ahmed 
-###Maryam Salah Hassan**
-###Ahmed Khaled Ahmed**
-###Mohamed Atef Ghazal**
-###Sherif Khaled Khalifa**
-- 💼 BI and Data Analysts   
+## 👥 Team Members
+- Mohammad Anwar Ahmed
+- Maryam Salah Hassan  
+- Mohamed Atef Ghazal  
+- Ahmed Khaled Ahmed  
+- Sherif Khaled Khalifa  
+
+**Supervised By:** Eng. Sarah Salah
+ 
 
 ## 📅 Date
-August 2025
-August 2025  
+August 2025 
 
