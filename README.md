@@ -54,6 +54,7 @@ This project showcases advanced SQL Server programming with stored procedures, t
 
 ## 📂 Repository Structure
 ```
+├── Data/                   # Inserted Data
 ├── Queries/                # SQL scripts (DDL, DML, Stored Procedures, Views, Triggers)
 ├── ERD-Mapping/            # ERD diagrams and mapping documents
 ├── Database/               # Database backup file (.bak)
@@ -71,8 +72,12 @@ This project showcases advanced SQL Server programming with stored procedures, t
 
 ---
 
-## 👤 Author
+## 👤 Team Members
 **Mohammad Anwar Ahmed**  
+**Maryam Salah Hassan**
+**Ahmed Khaled Ahmed**
+**Mohamed Atef Ghazal**
+**Sherif Khaled Khalifa**
 - 💼 BI and Data Analyst   
 
 ## 📅 Date
