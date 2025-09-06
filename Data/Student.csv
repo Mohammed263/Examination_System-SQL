@@ -1,0 +1,201 @@
+NID,Full_Name,Gender,Birth_Date,Email,Phone,City,College,GPA,Grad_Year,Track_ID,Intake_ID,Branch_ID
+30010120,Abeer Mina,F,2001-10-01,abeer.mina@student.iti.edu.eg,7974349061,Alexandria,Cairo University,3.52,2022,10,2,10
+30010163,Abeer Sameh,F,1998-01-08,abeer.sameh@student.iti.edu.eg,9676818549,Giza,Assiut University,3.8,2023,2,2,3
+30010098,Adel Ibrahim,M,1995-06-14,adel.ibrahim@student.iti.edu.eg,5216552215,Cairo,Ain Shams University,3.93,2021,9,1,8
+30010032,Adel Nour,M,1998-09-21,adel.nour@student.iti.edu.eg,8326991894,Assiut,Helwan University,2.31,2020,6,1,2
+30010076,Adel Seif,M,1997-05-27,adel.seif@student.iti.edu.eg,7235166196,Cairo,Cairo University,2.64,2020,8,1,6
+30010013,Ahmed Hassan,M,1998-12-23,ahmed.hassan@student.iti.edu.eg,6887353936,Cairo,Assiut University,2.64,2021,7,1,3
+30010057,Ahmed Salah,M,2001-12-02,ahmed.salah@student.iti.edu.eg,6698547194,Assiut,Helwan University,3.61,2021,9,1,7
+30010019,Ali Hany,M,1995-10-27,ali.hany@student.iti.edu.eg,9300336274,Tanta,Mansoura University,3.82,2020,10,1,9
+30010067,Ali Helmy,M,2000-01-11,ali.helmy@student.iti.edu.eg,1576161304,Minya,Tanta University,2.14,2023,4,1,7
+30010001,Ali Ibrahim,M,1995-09-18,ali.ibrahim@student.iti.edu.eg,1347108794,Tanta,Alexandria University,2.38,2021,1,1,1
+30010005,Ali Omar,M,1996-03-26,ali.omar@student.iti.edu.eg,1151642581,Giza,Assiut University,3.16,2023,3,1,5
+30010104,Amal Youssef,F,2001-03-14,amal.youssef@student.iti.edu.eg,2296512285,Giza,Zagazig University,3.5,2021,2,2,4
+30010023,Amr Gamal,M,1996-05-14,amr.gamal@student.iti.edu.eg,3511936942,Tanta,Mansoura University,3.06,2023,2,1,3
+30010065,Amr Yehia,M,1996-01-05,amr.yehia@student.iti.edu.eg,5625238677,Giza,Mansoura University,3.35,2021,3,1,5
+30010095,Anwar Ali,M,2000-06-09,anwar.ali@student.iti.edu.eg,2770550881,Alexandria,Cairo University,3.56,2023,8,1,5
+30010038,Ashraf Emad,M,1996-11-03,ashraf.emad@student.iti.edu.eg,2888218786,Tanta,Assiut University,3.63,2022,9,1,8
+30010090,Ashraf Yehia,M,1999-12-19,ashraf.yehia@student.iti.edu.eg,3129882418,Zagazig,Assiut University,2.7,2021,5,1,10
+30010147,Aya Belal,F,1999-03-12,aya.belal@student.iti.edu.eg,4127407283,Giza,Alexandria University,2.27,2020,4,2,7
+30010112,Aya Eslam,F,2001-03-12,aya.eslam@student.iti.edu.eg,1113259195,Minya,Ain Shams University,3.42,2024,6,2,2
+30010003,Aya Hassan,F,2004-02-13,aya.hassan@student.iti.edu.eg,1849251790,Zagazig,Zagazig University,2.77,2021,2,1,3
+30010189,Aya Saleh,F,1999-10-16,aya.saleh@student.iti.edu.eg,8308206116,Zagazig,Alexandria University,2.18,2020,5,2,9
+30010082,Ayman Basel,M,2002-05-14,ayman.basel@student.iti.edu.eg,4186351576,Minya,Tanta University,3.68,2020,1,1,2
+30010046,Ayman Ibrahim,M,1999-05-19,ayman.ibrahim@student.iti.edu.eg,7660565528,Alexandria,Cairo University,2.74,2022,3,1,6
+30010037,Basel Khaled,M,1994-12-01,basel.khaled@student.iti.edu.eg,5286161510,Assiut,Cairo University,2.64,2023,9,1,7
+30010153,Basma Lotfy,F,1998-10-17,basma.lotfy@student.iti.edu.eg,8155286600,Tanta,Mansoura University,3.48,2024,7,2,3
+30010140,Basma Malek,F,1999-10-18,basma.malek@student.iti.edu.eg,4351203396,Giza,Mansoura University,2.43,2021,10,2,10
+30010198,Basma Wael,F,2002-08-09,basma.wael@student.iti.edu.eg,3835629505,Giza,Tanta University,2.09,2021,9,2,8
+30010052,Bassem Shady,M,1995-12-08,bassem.shady@student.iti.edu.eg,1147707397,Tanta,Mansoura University,3.27,2024,6,1,2
+30010055,Belal Medhat,M,1997-09-09,belal.medhat@student.iti.edu.eg,5029373515,Tanta,Tanta University,2.29,2020,8,1,5
+30010075,Belal Moustafa,M,2003-04-15,belal.moustafa@student.iti.edu.eg,6387318045,Minya,Helwan University,2.1,2021,8,1,5
+30010107,Dalia Hussein,F,2002-05-13,dalia.hussein@student.iti.edu.eg,9010710495,Minya,Assiut University,2.14,2022,4,2,7
+30010145,Dalia Ismail,F,2001-06-09,dalia.ismail@student.iti.edu.eg,9512298516,Alexandria,Zagazig University,2.1,2020,3,2,5
+30010172,Dalia Rami,F,1996-06-22,dalia.rami@student.iti.edu.eg,8022862823,Minya,Cairo University,2.21,2022,6,2,2
+30010183,Dina Montaser,F,2002-08-31,dina.montaser@student.iti.edu.eg,9646925514,Tanta,Cairo University,2.95,2021,2,2,3
+30010150,Dina Shawky,F,1995-04-13,dina.shawky@student.iti.edu.eg,5273219996,Zagazig,Tanta University,2.15,2020,5,2,10
+30010108,Dina Tamer,F,1997-07-14,dina.tamer@student.iti.edu.eg,7779113953,Mansoura,Tanta University,3.89,2020,4,2,8
+30010113,Doaa Ehab,F,1995-05-30,doaa.ehab@student.iti.edu.eg,8149859020,Alexandria,Mansoura University,3.1,2024,7,2,3
+30010156,Doaa Farid,F,1998-08-05,doaa.farid@student.iti.edu.eg,3689845652,Alexandria,Helwan University,2.32,2024,8,2,6
+30010190,Doaa Marwan,F,2001-09-14,doaa.marwan@student.iti.edu.eg,5829748512,Alexandria,Alexandria University,3.81,2021,5,2,10
+30010027,Ehab Walid,M,2002-02-10,ehab.walid@student.iti.edu.eg,5348513961,Tanta,Tanta University,2.04,2024,4,1,7
+30010083,Ehab Youssef,M,2000-03-13,ehab.youssef@student.iti.edu.eg,9942360399,Cairo,Alexandria University,2.5,2021,2,1,3
+30010042,Emad Hesham,M,1998-09-30,emad.hesham@student.iti.edu.eg,2875840506,Cairo,Tanta University,2.56,2024,1,1,2
+30010091,Emad Ziad,M,1994-09-28,emad.ziad@student.iti.edu.eg,1729235949,Zagazig,Tanta University,3.48,2022,6,1,1
+30010071,Eslam Medhat,M,2001-01-24,eslam.medhat@student.iti.edu.eg,1132513030,Zagazig,Alexandria University,3.42,2020,6,1,1
+30010026,Eslam Osama,M,1995-02-03,eslam.osama@student.iti.edu.eg,2195245392,Giza,Cairo University,2.22,2022,3,1,6
+30010033,Fady Malek,M,2001-03-18,fady.malek@student.iti.edu.eg,5435593981,Alexandria,Cairo University,3.17,2021,7,1,3
+30010079,Fady Nour,M,1995-02-18,fady.nour@student.iti.edu.eg,5338791599,Giza,Zagazig University,3.39,2023,10,1,9
+30010130,Faten Ezzat,F,1995-04-21,faten.ezzat@student.iti.edu.eg,9959171620,Giza,Ain Shams University,3.39,2021,5,2,10
+30010193,Faten Rashed,F,2003-08-16,faten.rashed@student.iti.edu.eg,5995859397,Mansoura,Tanta University,3.88,2023,7,2,3
+30010175,Fatma Salah,F,1999-08-12,fatma.salah@student.iti.edu.eg,8025197641,Assiut,Zagazig University,3.97,2023,8,2,5
+30010114,Fatma Walid,F,1999-03-09,fatma.walid@student.iti.edu.eg,2329613970,Tanta,Alexandria University,3.23,2020,7,2,4
+30010093,Gamal Lotfy,M,2000-04-20,gamal.lotfy@student.iti.edu.eg,1732001436,Zagazig,Zagazig University,2.46,2024,7,1,3
+30010039,Gamal Wael,M,1997-03-21,gamal.wael@student.iti.edu.eg,1736518101,Zagazig,Mansoura University,2.33,2024,10,1,9
+30010127,Ghada Gamal,F,1997-06-04,ghada.gamal@student.iti.edu.eg,9991725985,Minya,Mansoura University,2.56,2021,4,2,7
+30010161,Ghada Sherif,F,2001-01-22,ghada.sherif@student.iti.edu.eg,8568921540,Mansoura,Mansoura University,3.36,2021,1,2,1
+30010151,Hager Fawzy,F,2000-12-23,hager.fawzy@student.iti.edu.eg,1971233998,Giza,Cairo University,3.08,2021,6,2,1
+30010197,Hager Lotfy,F,1998-07-06,hager.lotfy@student.iti.edu.eg,1033072754,Minya,Cairo University,3.13,2020,9,2,7
+30010138,Hager Saleh,F,2000-01-30,hager.saleh@student.iti.edu.eg,1711709085,Cairo,Mansoura University,3.72,2022,9,2,8
+30010148,Hana Marwan,F,2000-03-19,hana.marwan@student.iti.edu.eg,7261957524,Zagazig,Alexandria University,2.74,2022,4,2,8
+30010167,Hana Reda,F,1996-10-11,hana.reda@student.iti.edu.eg,8146270637,Cairo,Alexandria University,3,2024,4,2,7
+30010111,Hana Sherif,F,1994-10-31,hana.sherif@student.iti.edu.eg,3052094107,Giza,Helwan University,3.4,2021,6,2,1
+30010029,Hany Ezzat,M,1996-10-18,hany.ezzat@student.iti.edu.eg,1569077733,Zagazig,Mansoura University,3.34,2022,5,1,9
+30010073,Hany Fares,M,2001-10-17,hany.fares@student.iti.edu.eg,9178631120,Minya,Assiut University,2.49,2021,7,1,3
+30010020,Hassan Adel,M,1999-02-14,hassan.adel@student.iti.edu.eg,9700284729,Tanta,Tanta University,3.13,2020,10,1,10
+30010061,Hassan Ezz,M,2002-05-10,hassan.ezz@student.iti.edu.eg,9735298928,Mansoura,Ain Shams University,3.3,2024,1,1,1
+30010010,Hassan Hassan,M,2002-07-02,hassan.hassan@student.iti.edu.eg,1626269331,Cairo,Alexandria University,3.81,2020,5,1,10
+30010011,Hassan Sabry,M,2001-06-05,hassan.sabry@student.iti.edu.eg,1721354356,Alexandria,Ain Shams University,3.9,2021,6,1,1
+30010115,Heba Hany,F,1995-09-23,heba.hany@student.iti.edu.eg,4911558538,Tanta,Mansoura University,3.6,2024,8,2,5
+30010004,Heba Ibrahim,F,1997-12-18,heba.ibrahim@student.iti.edu.eg,1802769514,Zagazig,Ain Shams University,3.72,2021,2,1,4
+30010176,Heba Nabil,F,1994-09-12,heba.nabil@student.iti.edu.eg,8007821235,Assiut,Zagazig University,2.24,2021,8,2,6
+30010006,Heba Said,F,2000-05-14,heba.said@student.iti.edu.eg,1723652793,Assiut,Mansoura University,2.41,2022,3,1,6
+30010166,Hend Karim,F,1998-07-06,hend.karim@student.iti.edu.eg,8859990120,Minya,Cairo University,3.54,2020,3,2,6
+30010134,Hend Lotfy,F,2003-07-01,hend.lotfy@student.iti.edu.eg,9418025758,Giza,Assiut University,2.5,2023,7,2,4
+30010047,Hesham Ismail,M,2002-07-11,hesham.ismail@student.iti.edu.eg,5004297096,Assiut,Helwan University,3.07,2023,4,1,7
+30010186,Hoda Anwar,F,1996-07-16,hoda.anwar@student.iti.edu.eg,6930297711,Cairo,Cairo University,3.08,2023,3,2,6
+30010103,Hoda Ibrahim,F,1995-02-04,hoda.ibrahim@student.iti.edu.eg,6247556876,Mansoura,Ain Shams University,2.69,2023,2,2,3
+30010088,Hossam Adel,M,2002-07-11,hossam.adel@student.iti.edu.eg,9131974956,Zagazig,Ain Shams University,3.21,2020,4,1,8
+30010021,Hussein Samir,M,2001-01-02,hussein.samir@student.iti.edu.eg,8374959437,Giza,Zagazig University,3.32,2020,1,1,1
+30010068,Hussein Zaki,M,1998-09-06,hussein.zaki@student.iti.edu.eg,2116055063,Alexandria,Assiut University,3.74,2023,4,1,8
+30010092,Ibrahim Fares,M,1995-01-17,ibrahim.fares@student.iti.edu.eg,3468860128,Alexandria,Assiut University,3.78,2021,6,1,2
+30010053,Ibrahim Tarek,M,1998-12-03,ibrahim.tarek@student.iti.edu.eg,4273688719,Tanta,Ain Shams University,3.97,2024,7,1,3
+30010118,Inas Adel,F,1998-04-18,inas.adel@student.iti.edu.eg,7405670557,Minya,Alexandria University,2.03,2024,9,2,8
+30010158,Inas Fathy,F,1996-09-25,inas.fathy@student.iti.edu.eg,4765678109,Mansoura,Zagazig University,3.48,2020,9,2,8
+30010099,Ismail Magdy,M,1999-04-30,ismail.magdy@student.iti.edu.eg,9288419298,Giza,Assiut University,2.52,2024,10,1,9
+30010024,Karim Reda,M,2002-08-22,karim.reda@student.iti.edu.eg,8719166225,Zagazig,Cairo University,2.67,2020,2,1,4
+30010002,Karim Said,M,2000-03-27,karim.said@student.iti.edu.eg,1480594649,Giza,Mansoura University,2.7,2022,1,1,2
+30010173,Karima Magdy,F,1996-02-19,karima.magdy@student.iti.edu.eg,9087296016,Tanta,Zagazig University,3.24,2023,7,2,3
+30010132,Karima Wael,F,2002-09-28,karima.wael@student.iti.edu.eg,9393676027,Tanta,Helwan University,2.09,2022,6,2,2
+30010066,Khaled Anwar,M,1996-05-07,khaled.anwar@student.iti.edu.eg,9176865214,Tanta,Tanta University,2.2,2022,3,1,6
+30010096,Khaled Eslam,M,1995-07-28,khaled.eslam@student.iti.edu.eg,7170404001,Zagazig,Cairo University,3.48,2024,8,1,6
+30010041,Khaled Osama,M,2002-12-08,khaled.osama@student.iti.edu.eg,9525894549,Minya,Mansoura University,3.26,2024,1,1,1
+30010200,kylyan mbabe,M,2000-08-09,kylyan.mbabe@student.iti.edu.eg,1095862555,Zagazig,Cairo University,2.01,2023,10,2,10
+30010012,Laila Ibrahim,F,1998-05-17,laila.ibrahim@student.iti.edu.eg,1818457690,Sohag,Assiut University,2.46,2022,6,1,2
+30010129,Laila Khaled,F,1997-11-02,laila.khaled@student.iti.edu.eg,2870262162,Assiut,Tanta University,3.71,2021,5,2,9
+30010160,Laila Wael,F,1999-08-06,laila.wael@student.iti.edu.eg,7324175952,Alexandria,Ain Shams University,3.36,2021,10,2,10
+30010169,Lobna Adel,F,1995-05-22,lobna.adel@student.iti.edu.eg,9403092120,Mansoura,Ain Shams University,3.88,2020,5,2,9
+30010119,Lobna Fady,F,1997-01-06,lobna.fady@student.iti.edu.eg,7679143056,Mansoura,Mansoura University,3.01,2021,10,2,9
+30010035,Magdy Ashraf,M,2002-12-05,magdy.ashraf@student.iti.edu.eg,7613806169,Alexandria,Tanta University,2.07,2021,8,1,5
+30010094,Magdy Bassem,M,1998-01-25,magdy.bassem@student.iti.edu.eg,6987799356,Zagazig,Helwan University,2.62,2021,7,1,4
+30010063,Mahmoud Galal,M,2000-05-27,mahmoud.galal@student.iti.edu.eg,9328185624,Giza,Mansoura University,2.41,2020,2,1,3
+30010015,Mahmoud Khaled,M,1996-10-22,mahmoud.khaled@student.iti.edu.eg,3858641508,Minya,Zagazig University,3.05,2020,8,1,5
+30010110,Mai Karim,F,2000-02-27,mai.karim@student.iti.edu.eg,3782339424,Alexandria,Helwan University,2.08,2021,5,2,10
+30010174,Mai Tamer,F,2000-06-13,mai.tamer@student.iti.edu.eg,5656477944,Mansoura,Zagazig University,3.2,2021,7,2,4
+30010049,Malek Marwan,M,1994-11-11,malek.marwan@student.iti.edu.eg,1024382034,Mansoura,Helwan University,2.67,2023,5,1,9
+30010101,Mariam Hassan,F,2002-07-25,mariam.hassan@student.iti.edu.eg,7943547024,Mansoura,Assiut University,2.29,2021,1,2,1
+30010181,Marwa Ibrahim,F,1996-05-10,marwa.ibrahim@student.iti.edu.eg,4818575590,Giza,Zagazig University,3.94,2020,1,2,1
+30010124,Marwa Rami,F,2003-08-03,marwa.rami@student.iti.edu.eg,1599396546,Alexandria,Assiut University,2.87,2024,2,2,4
+30010072,Marwan Ashraf,M,1995-07-19,marwan.ashraf@student.iti.edu.eg,2273816959,Zagazig,Alexandria University,2.02,2021,6,1,2
+30010056,Marwan Hamdy,M,1997-05-03,marwan.hamdy@student.iti.edu.eg,7509670311,Minya,Helwan University,3.82,2022,8,1,6
+30010081,Medhat Nader,M,1997-03-02,medhat.nader@student.iti.edu.eg,1603714062,Minya,Assiut University,3.16,2021,1,1,1
+30010014,Mohamed Ali,M,1996-07-23,mohamed.ali@student.iti.edu.eg,4939959242,Alexandria,Cairo University,2.32,2021,7,1,4
+30010086,Mohamed Refaat,M,2002-06-13,mohamed.refaat@student.iti.edu.eg,1326227328,Giza,Mansoura University,3.41,2021,3,1,6
+30010157,Mona Nour El Din,F,2002-09-03,mona.din@student.iti.edu.eg,1929159421,Tanta,Assiut University,2.1,2023,9,2,7
+30010144,Mona Ibrahim,F,1996-01-20,mona.ibrahim@student.iti.edu.eg,1654498896,Tanta,Cairo University,2.08,2020,2,2,4
+30010102,Mona Khaled,F,1996-10-27,mona.khaled@student.iti.edu.eg,8556159906,Cairo,Helwan University,2.57,2024,1,2,2
+30010185,Mona Nour,F,1995-08-07,mona.nour@student.iti.edu.eg,7437868954,Cairo,Cairo University,2.16,2024,3,2,5
+30010016,Mostafa Ibrahim,M,1998-04-25,mostafa.ibrahim@student.iti.edu.eg,6553565905,Tanta,Cairo University,2.16,2022,8,1,6
+30010064,Mostafa Saber,M,1998-11-01,mostafa.saber@student.iti.edu.eg,2678997921,Mansoura,Alexandria University,3.84,2021,2,1,4
+30010034,Nader Basel,M,2001-01-05,nader.basel@student.iti.edu.eg,3660218305,Cairo,Alexandria University,3.26,2021,7,1,4
+30010165,Naglaa Ibrahim,F,1995-04-11,naglaa.ibrahim@student.iti.edu.eg,1612984538,Mansoura,Helwan University,2.01,2024,3,2,5
+30010133,Naglaa Reda,F,1996-06-30,naglaa.reda@student.iti.edu.eg,6843900802,Minya,Mansoura University,3.67,2022,7,2,3
+30010178,Nashwa Khaled,F,1994-11-06,nashwa.khaled@student.iti.edu.eg,4838611805,Alexandria,Tanta University,3.96,2024,9,2,8
+30010135,Nashwa Osama,F,1999-08-27,nashwa.osama@student.iti.edu.eg,9351955657,Minya,Ain Shams University,3.78,2022,8,2,5
+30010188,Nermin Hamdy,F,1999-04-10,nermin.hamdy@student.iti.edu.eg,9617987986,Zagazig,Mansoura University,2.87,2020,4,2,8
+30010128,Nermin Taha,F,1994-10-10,nermin.taha@student.iti.edu.eg,8927232579,Cairo,Tanta University,2.81,2022,4,2,8
+30010116,Nesma Sameh,F,1999-08-04,nesma.sameh@student.iti.edu.eg,6778571699,Giza,Alexandria University,3.97,2020,8,2,6
+30010162,Nesma Tarek,F,1997-09-06,nesma.tarek@student.iti.edu.eg,6230956957,Giza,Tanta University,2.93,2021,1,2,2
+30010199,Nour Ali,F,1998-05-17,nour.ali@student.iti.edu.eg,5956665330,Alexandria,Tanta University,2.71,2021,10,2,9
+30010137,Nourhan Hesham,F,1999-03-21,nourhan.hesham@student.iti.edu.eg,4537391140,Alexandria,Zagazig University,3.84,2021,9,2,7
+30010177,Nourhan Lotfy,F,1996-08-08,nourhan.lotfy@student.iti.edu.eg,4229853496,Cairo,Ain Shams University,2.42,2023,9,2,7
+30010058,Omar Fathy,M,1999-07-02,omar.fathy@student.iti.edu.eg,9771019205,Assiut,Cairo University,3.42,2022,9,1,8
+30010018,Omar Tamer,M,1999-09-08,omar.tamer@student.iti.edu.eg,7822874523,Minya,Cairo University,3.02,2020,9,1,8
+30010045,Osama Belal,M,2003-06-13,osama.belal@student.iti.edu.eg,2222962499,Zagazig,Ain Shams University,2.58,2023,3,1,5
+30010080,Osama Shokry,M,1998-06-15,osama.shokry@student.iti.edu.eg,8758387101,Tanta,Tanta University,2.19,2020,10,1,10
+30010036,Rami Taha,M,2000-03-04,rami.taha@student.iti.edu.eg,5870072150,Tanta,Mansoura University,2.95,2021,8,1,6
+30010105,Rania Omar,F,1996-08-06,rania.omar@student.iti.edu.eg,1013632138,Zagazig,Assiut University,2.1,2020,3,2,5
+30010152,Rania Refaat,F,1999-11-01,rania.refaat@student.iti.edu.eg,2787185424,Cairo,Helwan University,2.02,2022,6,2,2
+30010146,Rania Yassin,F,2002-10-05,rania.yassin@student.iti.edu.eg,4518970778,Giza,Zagazig University,2.28,2020,3,2,6
+30010159,Rasha Malek,F,1997-01-29,rasha.malek@student.iti.edu.eg,5378486339,Tanta,Mansoura University,2.34,2021,10,2,9
+30010142,Rasha Seif,F,1995-04-02,rasha.seif@student.iti.edu.eg,2222444268,Mansoura,Ain Shams University,3.24,2022,1,2,2
+30010089,Reda Mokhtar,M,1995-04-25,reda.mokhtar@student.iti.edu.eg,7620957157,Zagazig,Mansoura University,3.31,2022,5,1,9
+30010044,Reda Nour,M,2002-12-16,reda.nour@student.iti.edu.eg,6726132203,Giza,Tanta University,2.69,2023,2,1,4
+30010143,Riham Bassem,F,1994-09-04,riham.bassem@student.iti.edu.eg,3677873910,Cairo,Cairo University,3.32,2024,2,2,3
+30010196,Riham Shawky,F,1995-04-15,riham.shawky@student.iti.edu.eg,8618675125,Assiut,Tanta University,2.14,2022,8,2,6
+30010097,Saber Belal,M,1997-12-14,saber.belal@student.iti.edu.eg,4433307073,Alexandria,Cairo University,3.81,2020,9,1,7
+30010121,Safaa George,F,1998-03-21,safaa.george@student.iti.edu.eg,6992246028,Alexandria,Ain Shams University,2.35,2021,1,2,1
+30010171,Safaa Gerges,F,2000-01-30,safaa.gerges@student.iti.edu.eg,1222866471,Tanta,Assiut University,2.61,2023,6,2,1
+30010192,Safaa Tamer,F,1999-08-11,safaa.tamer@student.iti.edu.eg,2143348097,Zagazig,Ain Shams University,2.64,2022,6,2,2
+30010164,Sahar Bassem,F,2000-01-29,sahar.bassem@student.iti.edu.eg,9926289499,Alexandria,Ain Shams University,3.07,2022,2,2,4
+30010123,Sahar Magdy,F,1998-05-18,sahar.magdy@student.iti.edu.eg,7509073075,Zagazig,Assiut University,2.32,2023,2,2,3
+30010048,Saleh Yassin,M,2003-05-24,saleh.yassin@student.iti.edu.eg,2596545932,Assiut,Tanta University,2.26,2021,4,1,8
+30010179,Salma Hossam,F,1997-07-10,salma.hossam@student.iti.edu.eg,8219108086,Cairo,Alexandria University,3.3,2024,10,2,9
+30010007,Salma Ibrahim,F,2001-10-15,salma.ibrahim@student.iti.edu.eg,1579236750,Cairo,Cairo University,2.25,2022,4,1,7
+30010149,Salma Ramy,F,1996-06-09,salma.ramy@student.iti.edu.eg,9725704940,Mansoura,Tanta University,2.33,2023,5,2,9
+30010117,Salma Samir,F,1996-11-05,salma.samir@student.iti.edu.eg,9560298834,Zagazig,Ain Shams University,3.05,2020,9,2,7
+30010126,Samah Ashraf,F,2003-05-17,samah.ashraf@student.iti.edu.eg,7182515766,Minya,Alexandria University,3.52,2023,3,2,6
+30010030,Sameh Ayman,M,1996-10-09,sameh.ayman@student.iti.edu.eg,2063503940,Assiut,Alexandria University,2.13,2024,5,1,10
+30010031,Samir Hesham,M,2000-01-15,samir.hesham@student.iti.edu.eg,5509630508,Assiut,Mansoura University,3.65,2023,6,1,1
+30010070,Samir Hossam,M,2001-10-27,samir.hossam@student.iti.edu.eg,2513801868,Minya,Cairo University,3.84,2022,5,1,10
+30010100,Sara Ahmed,F,2002-12-10,sara.ahmed@student.iti.edu.eg,7398794138,Alexandria,Tanta University,3.1,2022,10,1,10
+30010182,Sara Akram,F,1999-01-05,sara.akram@student.iti.edu.eg,6563264668,Cairo,Tanta University,3.79,2022,1,2,2
+30010009,Sara Sabry,F,2005-06-06,sara.sabry@student.iti.edu.eg,1638119120,Alexandria,Beni Suef University,2.48,2022,5,1,9
+30010051,Seif Hossam,M,1999-08-14,seif.hossam@student.iti.edu.eg,5564715107,Zagazig,Alexandria University,2.36,2023,6,1,1
+30010084,Shady Fawzy,M,1999-06-07,shady.fawzy@student.iti.edu.eg,3510661978,Alexandria,Helwan University,2.59,2021,2,1,4
+30010195,Shaimaa Hany,F,1997-10-05,shaimaa.hany@student.iti.edu.eg,9498615138,Assiut,Alexandria University,3.03,2022,8,2,5
+30010184,Shaimaa Helmy,F,2001-06-18,shaimaa.helmy@student.iti.edu.eg,5198635625,Alexandria,Assiut University,3.53,2022,2,2,4
+30010154,Shaimaa Mokhtar,F,1995-10-24,shaimaa.mokhtar@student.iti.edu.eg,6914613991,Alexandria,Cairo University,2.29,2024,7,2,4
+30010139,Shaimaa Nour,F,1994-11-06,shaimaa.nour@student.iti.edu.eg,1476217369,Tanta,Tanta University,2.14,2021,10,2,9
+30010025,Sherif Lotfy,M,1995-08-02,sherif.lotfy@student.iti.edu.eg,6309242485,Zagazig,Assiut University,2.25,2021,3,1,5
+30010062,Sherif Montaser,M,1996-01-25,sherif.montaser@student.iti.edu.eg,6704971400,Tanta,Zagazig University,2.76,2020,1,1,2
+30010109,Sherine Amr,F,1997-08-14,sherine.amr@student.iti.edu.eg,9490762152,Minya,Alexandria University,2.15,2023,5,2,9
+30010191,Sherine Fady,F,1997-07-13,sherine.fady@student.iti.edu.eg,8033347482,Alexandria,Cairo University,2.49,2021,6,2,1
+30010136,Soad Ayman,F,1999-08-19,soad.ayman@student.iti.edu.eg,7113022925,Assiut,Mansoura University,2.08,2020,8,2,6
+30010187,Soad Tarek,F,1994-11-15,soad.tarek@student.iti.edu.eg,6106850327,Minya,Tanta University,2.33,2024,4,2,7
+30010131,Sohair Emad,F,2001-05-18,sohair.emad@student.iti.edu.eg,6757617747,Minya,Ain Shams University,2.45,2023,6,2,1
+30010125,Somaya Basel,F,2003-08-06,somaya.basel@student.iti.edu.eg,8795523362,Zagazig,Helwan University,3.27,2024,3,2,5
+30010170,Somaya Hassan,F,2003-02-25,somaya.hassan@student.iti.edu.eg,8707497819,Assiut,Helwan University,2.06,2023,5,2,10
+30010078,Taha Gamal,M,2001-01-28,taha.gamal@student.iti.edu.eg,4813199358,Mansoura,Tanta University,2.31,2022,9,1,8
+30010040,Taha Lotfy,M,2002-12-16,taha.lotfy@student.iti.edu.eg,9357084239,Alexandria,Mansoura University,2.73,2020,10,1,10
+30010059,Tamer Adel,M,1998-12-20,tamer.adel@student.iti.edu.eg,8101857316,Giza,Alexandria University,3.67,2024,10,1,9
+30010022,Tamer Fathy,M,2002-09-06,tamer.fathy@student.iti.edu.eg,4743061981,Cairo,Tanta University,2.63,2022,1,1,2
+30010008,Tamer Hassan,M,1996-12-17,tamer.hassan@student.iti.edu.eg,1363561071,Assiut,Cairo University,3.72,2023,4,1,8
+30010087,Tamer Moataz,M,1997-10-15,tamer.moataz@student.iti.edu.eg,8961966001,Mansoura,Assiut University,2.41,2020,4,1,7
+30010085,Wael Ezzat,M,1999-02-17,wael.ezzat@student.iti.edu.eg,5544174757,Minya,Zagazig University,3.96,2024,3,1,5
+30010043,Wael Saleh,M,1997-06-18,wael.saleh@student.iti.edu.eg,6507274914,Mansoura,Alexandria University,2.72,2020,2,1,3
+30010168,Wafaa Lotfy,F,1995-02-13,wafaa.lotfy@student.iti.edu.eg,5557788524,Assiut,Ain Shams University,2.1,2024,4,2,8
+30010122,Wafaa Nader,F,1997-08-01,wafaa.nader@student.iti.edu.eg,7422472906,Giza,Cairo University,3.31,2022,1,2,2
+30010069,Walid Adel,M,1999-08-15,walid.adel@student.iti.edu.eg,2928918086,Cairo,Zagazig University,3.25,2022,5,1,9
+30010028,Walid Magdy,M,1997-04-06,walid.magdy@student.iti.edu.eg,7114733364,Giza,Assiut University,2.62,2024,4,1,8
+30010106,Yara Ali,F,2001-01-14,yara.ali@student.iti.edu.eg,5935248997,Zagazig,Ain Shams University,3.34,2021,3,2,6
+30010194,Yara Sameh,F,1999-12-03,yara.sameh@student.iti.edu.eg,1902448144,Alexandria,Alexandria University,2.2,2023,7,2,4
+30010155,Yara Tawfik,F,2002-11-17,yara.tawfik@student.iti.edu.eg,7401333910,Alexandria,Zagazig University,2.07,2022,8,2,5
+30010077,Yassin Emad,M,1998-10-25,yassin.emad@student.iti.edu.eg,2830676308,Mansoura,Helwan University,2.04,2022,9,1,7
+30010054,Yassin Maged,M,1997-08-04,yassin.maged@student.iti.edu.eg,6838106251,Assiut,Assiut University,2.38,2024,7,1,4
+30010180,Yomna Shereef,F,1997-10-17,yomna.shereef@student.iti.edu.eg,5047858649,Alexandria,Mansoura University,3.69,2024,10,2,10
+30010141,Yomna Ziad,F,1998-01-14,yomna.ziad@student.iti.edu.eg,2678937723,Giza,Tanta University,3.69,2020,1,2,1
+30010017,Youssef Mahmoud,M,2002-06-22,youssef.mahmoud@student.iti.edu.eg,4386739456,Alexandria,Tanta University,2.63,2024,9,1,7
+30010060,Youssef Rashed,M,2002-08-18,youssef.rashed@student.iti.edu.eg,9698352329,Tanta,Zagazig University,2.67,2023,10,1,10
+30010074,Ziad Osama,M,1998-01-04,ziad.osama@student.iti.edu.eg,2864735633,Zagazig,Assiut University,2.55,2023,7,1,4
+30010050,Ziad Ramy,M,1999-10-12,ziad.ramy@student.iti.edu.eg,7546780165,Alexandria,Tanta University,2.61,2021,5,1,10

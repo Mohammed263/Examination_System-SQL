@@ -1,0 +1,26 @@
+ID,Name,Description,Max_Degree,Min_Degree
+1,Database Systems,Database Systems course ,100,50
+2,Operating Systems,Operating Systems course ,100,50
+3,Computer Networks,Computer Networks course ,100,50
+4,Software Engineering,Software Engineering course ,100,50
+5,Data Mining,Data Mining course ,100,50
+6,Machine Learning,Machine Learning course ,100,50
+7,Deep Learning,Deep Learning course ,100,50
+8,Cyber Security Basics,Cyber Security Basics course ,100,50
+9,Ethical Hacking,Ethical Hacking course ,100,50
+10,Big Data Tools,Big Data Tools course ,100,50
+11,Cloud Fundamentals,Cloud Fundamentals course ,100,50
+12,Mobile App Dev,Mobile App Dev course ,100,50
+13,Web Development,Web Development course ,100,50
+14,Data Visualization,Data Visualization course ,100,50
+15,Business Intelligence,Business Intelligence course ,100,50
+16,Algorithms,Algorithms course ,100,50
+17,Programming in Python,Programming in Python course ,100,50
+18,C# Programming,C# Programming course ,100,50
+19,Java Programming,Java Programming course ,100,50
+20,Distributed Systems,Distributed Systems course ,100,50
+21,AI Fundamentals,AI Fundamentals course ,100,50
+22,Data Warehousing,Data Warehousing course ,100,50
+23,Testing Tools,Testing Tools course ,100,50
+24,DevOps Basics,DevOps Basics course ,100,50
+25,Natural Language Processing,Natural Language Processing course ,100,50

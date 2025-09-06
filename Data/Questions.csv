@@ -1,0 +1,751 @@
+ID,Head,Options,Type,Correct_Answer,Degree,Course_ID
+1,True or False:A clustered index determines physical data order.,A) True; B) False,True/False,A,5,1
+2,True or False: Normalization reduces data redundancy.,A) True; B) False,True/False,A,5,1
+3,What is the purpose ofA JOIN in SQL?,A) Delete records; B) Combine rows from multiple tables; C) Update records; D) CreateA new table,Multiple choice,B,5,1
+4,What isA stored procedure in SQL?,A)A temporary table; B)A precompiled query; C)A data type; D)An index,Multiple choice,B,5,1
+5,What does SQL stand for?,A) Simple Query Language; B) Structured Query Language; C) System Query List; D) Statement Question Language,Multiple choice,B,5,1
+6,What does the GROUP BY clause do?,A) Filters rows; B) Sorts rows; C) Groups rows by column values; D) Joins tables,Multiple choice,C,5,1
+7,Which SQL function counts rows?,A) SUM(); B) COUNT(); C)AVG(); D) MAX(),Multiple choice,B,5,1
+8,What does the SELECT statement do?,A) Updates data; B) Retrieves data; C) Deletes data; D) Inserts data,Multiple choice,B,5,1
+9,Which SQL clause filters rows before grouping?,A) HAVING; B) WHERE; C) ORDER BY; D) GROUP BY,Multiple choice,B,5,1
+10,What does theALTER TABLE command do?,A) DeletesA table; B) ModifiesA table structure; C) Inserts data; D) Retrieves data,Multiple choice,B,5,1
+11,Which SQL clause sorts query results?,A) WHERE; B) ORDER BY; C) GROUP BY; D) HAVING,Multiple choice,B,5,1
+12,What does the LIKE operator do in SQL?,A) Joins tables; B) Matches patterns; C) Sorts data; D) Groups data,Multiple choice,B,5,1
+13,What isA trigger in SQL?,A)A data type; B)AnAutomaticAction; C)A query; D)A table,Multiple choice,B,5,1
+14,Which SQL command deletesA table?,A) DELETE; B) DROP; C) TRUNCATE; D) REMOVE,Multiple choice,B,5,1
+15,Which SQL clause filters rowsAfter grouping?,A) WHERE; B) HAVING; C) GROUP BY; D) ORDER BY,Multiple choice,B,5,1
+16,Which type of join returnsAll rows from both tables?,A) INNER JOIN; B) LEFT JOIN; C) RIGHT JOIN; D) FULL JOIN,Multiple choice,D,5,1
+17,Which SQL commandAdds new rows toA table?,A) INSERT; B) UPDATE; C)ALTER; D) SELECT,Multiple choice,A,5,1
+18,True or False: Indexes can speed up queries.,A) True; B) False,True/False,A,5,1
+19,True or False:A view isA physical table.,A) True; B) False,True/False,B,5,1
+20,What does the UNION operator do?,A) Combines rows from multiple queries; B) Joins tables; C) Filters rows; D) Sorts results,Multiple choice,A,5,1
+21,True or False:A primary key can contain NULL values.,A) True; B) False,True/False,B,5,1
+22,True or False:A composite key consists of multiple columns.,A) True; B) False,True/False,A,5,1
+23,True or False:A foreign key enforces referential integrity.,A) True; B) False,True/False,A,5,1
+24,Which SQL command updates existing records?,A) INSERT; B) UPDATE; C)ALTER; D) MODIFY,Multiple choice,B,5,1
+25,Which SQL function finds the maximum value?,A) MAX(); B) MIN(); C)AVG(); D) SUM(),Multiple choice,A,5,1
+26,True or False:A database view can be updated.,A) True; B) False,True/False,A,5,1
+27,Which command createsA new table in SQL?,A)ADD TABLE; B) CREATE TABLE; C) NEW TABLE; D) INSERT TABLE,Multiple choice,B,5,1
+28,Which command removesAll records fromA table?,A) DELETE; B) DROP; C) TRUNCATE; D) REMOVE,Multiple choice,C,5,1
+29,True or False:A transaction ensures data consistency.,A) True; B) False,True/False,A,5,1
+30,What isA database schema?,A)A query; B)A table structure; C)A database structure; D)A data type,Multiple choice,C,5,1
+31,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,2
+32,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,2
+33,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,2
+34,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,2
+35,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,2
+36,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,2
+37,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,2
+38,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,2
+39,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,2
+40,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,2
+41,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,2
+42,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,2
+43,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,2
+44,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,2
+45,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,2
+46,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,2
+47,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,2
+48,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,2
+49,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,2
+50,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,2
+51,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,2
+52,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,2
+53,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,2
+54,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,2
+55,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,2
+56,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,2
+57,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,2
+58,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,2
+59,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,2
+60,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,2
+61,True or False:A router operatesAt the Data Link layer.,A) True; B) False,True/False,B,5,3
+62,What is the purpose ofA MACAddress?,A) Route packets; B) Identify devices onA network; C) Encrypt data; D)Assign IPAddresses,Multiple choice,B,5,3
+63,Which layer of the OSI model handles data encryption?,A) Network; B) Transport; C) Presentation; D)Application,Multiple choice,C,5,3
+64,Which protocol is used for network management?,A) SMTP; B) SNMP; C) FTP; D) HTTP,Multiple choice,B,5,3
+65,What does DNS stand for?,A) Dynamic Network Service; B) Domain Name System; C) Data Network Standard; D) Distributed Name Service,Multiple choice,B,5,3
+66,True or False: IPv6 uses 128-bitAddresses.,A) True; B) False,True/False,A,5,3
+67,Which protocol ensures reliable data transfer?,A) UDP; B) TCP; C) ICMP; D) FTP,Multiple choice,B,5,3
+68,True or False:A switch operatesAt the Network layer.,A) True; B) False,True/False,B,5,3
+69,What isA VLAN?,A) Virtual LocalArea Network; B) Variable LinkAccess Network; C) Virtual LineAuthentication Node; D) Vector LocalAccess Network,Multiple choice,A,5,3
+70,Which port is used by SSH?,A) 21; B) 22; C) 23; D) 80,Multiple choice,B,5,3
+71,Which protocol is used for email sending?,A) IMAP; B) POP3; C) SMTP; D) SNMP,Multiple choice,C,5,3
+72,What doesARP stand for?,A)Address Resolution Protocol; B)Access Routing Protocol; C)Application Request Protocol; D)Address Request Protocol,Multiple choice,A,5,3
+73,What does QoS stand for?,A) Quality of Service; B) Quantity of Systems; C) Query of Servers; D) Queue of Signals,Multiple choice,A,5,3
+74,True or False: TCP is connectionless.,A) True; B) False,True/False,B,5,3
+75,What is the purpose ofA subnet mask?,A) Encrypt data; B) Divide networks; C)Assign IPAddresses; D) Route packets,Multiple choice,B,5,3
+76,True or False:A gateway connects different network protocols.,A) True; B) False,True/False,A,5,3
+77,True or False: FTP is used to transfer files between clientAnd server.,A) True; B) False,True/False,A,5,3
+78,True or False: UDP is faster than TCP.,A) True; B) False,True/False,A,5,3
+79,True or False:A hub broadcasts data toAll connected devices.,A) True; B) False,True/False,A,5,3
+80,Which protocol resolves IPAddresses to MACAddresses?,A) DNS; B) DHCP; C)ARP; D) SNMP,Multiple choice,C,5,3
+81,What is the default port for HTTP?,A) 21; B) 80; C) 443; D) 8080,Multiple choice,B,5,3
+82,Which protocol uses port 443?,A) HTTP; B) HTTPS; C) FTP; D) SSH,Multiple choice,B,5,3
+83,True or False: NAT translates private IPAddresses to public ones.,A) True; B) False,True/False,A,5,3
+84,What is the default port for SMTP?,A) 25; B) 80; C) 110; D) 143,Multiple choice,A,5,3
+85,Which port is used by FTP?,A) 21; B) 22; C) 80; D) 443,Multiple choice,A,5,3
+86,True or False:A firewall can block specific ports.,A) True; B) False,True/False,A,5,3
+87,What does ICMP stand for?,A) Internet Control Message Protocol; B) Internal Communication Protocol; C) Internet Connection Management Protocol; D) Inter-Computer Message Protocol,Multiple choice,A,5,3
+88,Which device connects multiple networks?,A) Switch; B) Hub; C) Router; D) Repeater,Multiple choice,C,5,3
+89,What does DHCP do?,A) Resolves domain names; B)Assigns IPAddresses; C) Filters packets; D) Encrypts data,Multiple choice,B,5,3
+90,Which layer of the OSI model does IP belong to?,A) Transport; B) Network; C) Data Link; D) Session,Multiple choice,B,5,3
+91,True or False: Python supports multiple inheritance?,A) True; B) False,True/False,A,5,4
+92,What does the `try-except` block handle in Python?,A) Syntax errors; B) Runtime errors; C) Logical errors; D) Compilation errors,Multiple choice,B,5,4
+93,Which methodAddsAn element toA list in Python?,A)Append(); B)Add(); C) insert(); D) BothAAnd C,Multiple choice,D,5,4
+94,"What is the output of: `print(len(set([1, 1, 2])))`?",A) 1; B) 2; C) 3; D) 4,Multiple choice,B,5,4
+95,What doesA list comprehension do?,A) Filters files; B) Creates lists; C) Defines functions; D) Handles exceptions,Multiple choice,B,5,4
+96,Which Python data type is unordered?,A) list; B) tuple; C) set; D) str,Multiple choice,C,5,4
+97,Which loop is used to iterate overA sequence in Python?,A) do-while; B) for; C) while-only; D) foreach,Multiple choice,B,5,4
+98,Which keyword is used to defineA function in Python?,A) func; B) define; C) def; D) function,Multiple choice,C,5,4
+99,Which operator checks equality in Python?,A) =; B) ==; C) :=; D) ===,Multiple choice,B,5,4
+100,What is the output of: `print(list(range(3)))`?,"A) [1, 2, 3]; B) [0, 1, 2]; C) [0, 1, 2, 3]; D) [1, 2]",Multiple choice,B,5,4
+101,What is the output of: `print('Hello'[1:3])`?,A) He; B) el; C) ll; D) lo,Multiple choice,B,5,4
+102,Which Python function convertsA string toAn integer?,A) str(); B) int(); C) float(); D) bool(),Multiple choice,B,5,4
+103,What does the `in` operator check in Python?,A) Division; B) Membership; C)Assignment; D) Comparison,Multiple choice,B,5,4
+104,Which method sortsA list in place?,A) sorted(); B) sort(); C) order(); D)Arrange(),Multiple choice,B,5,4
+105,True or False: Python uses indentation to define code blocks.,A) True; B) False,True/False,A,5,4
+106,Which symbol is used for comments in Python?,A) //; B) /* */; C) #; D) <!-- -->,Multiple choice,C,5,4
+107,True or False: Python is case-sensitive.,A) True; B) False,True/False,A,5,4
+108,Which keyword createsA class in Python?,A) class; B) struct; C) object; D) type,Multiple choice,A,5,4
+109,True or False:A Python dictionary stores key-value pairs.,A) True; B) False,True/False,A,5,4
+110,Which Python module is used for regular expressions?,A) math; B) re; C) os; D) sys,Multiple choice,B,5,4
+111,True or False: Python’s `None` is equivalent to null in other languages.,A) True; B) False,True/False,A,5,4
+112,"What is the output of: `print([1, 2, 3].pop())`?","A) 1; B) 2; C) 3; D) [1, 2]",Multiple choice,C,5,4
+113,"What is the output of: `print({1: 'one', 2: 'two'}[1])`?",A) one; B) two; C) 1; D) KeyError,Multiple choice,A,5,4
+114,True or False: The `break` statement exitsA loop.,A) True; B) False,True/False,A,5,4
+115,What is the output of: `print(2 ** 3)` in Python?,A) 6; B) 8; C) 9; D) 5,Multiple choice,B,5,4
+116,What does the `len()` function return forA string?,A) Number of words; B) Number of characters; C) Number of spaces; D) Number of lines,Multiple choice,B,5,4
+117,Which method removes the first occurrence ofAn element inA list?,A) pop(); B) remove(); C) delete(); D) discard(),Multiple choice,B,5,4
+118,Which of the following isA mutable data type in Python?,A) tuple; B) list; C) str; D) int,Multiple choice,B,5,4
+119,True or False: Lists in PythonAre immutable.,A) True; B) False,True/False,B,5,4
+120,What is the output of: `print(3 // 2)` in Python?,A) 1; B) 1.5; C) 2; D) 0,Multiple choice,A,5,4
+121,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,5
+122,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,5
+123,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,5
+124,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,5
+125,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,5
+126,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,5
+127,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,5
+128,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,5
+129,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,5
+130,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,5
+131,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,5
+132,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,5
+133,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,5
+134,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,5
+135,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,5
+136,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,5
+137,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,5
+138,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,5
+139,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,5
+140,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,5
+141,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,5
+142,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,5
+143,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,5
+144,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,5
+145,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,5
+146,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,5
+147,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,5
+148,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,5
+149,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,5
+150,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,5
+151,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,6
+152,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,6
+153,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,6
+154,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,6
+155,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,6
+156,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,6
+157,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,6
+158,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,6
+159,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,6
+160,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,6
+161,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,6
+162,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,6
+163,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,6
+164,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,6
+165,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,6
+166,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,6
+167,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,6
+168,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,6
+169,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,6
+170,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,6
+171,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,6
+172,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,6
+173,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,6
+174,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,6
+175,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,6
+176,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,6
+177,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,6
+178,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,6
+179,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,6
+180,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,6
+181,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,7
+182,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,7
+183,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,7
+184,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,7
+185,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,7
+186,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,7
+187,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,7
+188,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,7
+189,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,7
+190,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,7
+191,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,7
+192,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,7
+193,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,7
+194,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,7
+195,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,7
+196,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,7
+197,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,7
+198,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,7
+199,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,7
+200,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,7
+201,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,7
+202,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,7
+203,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,7
+204,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,7
+205,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,7
+206,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,7
+207,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,7
+208,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,7
+209,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,7
+210,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,7
+211,What isA man-in-the-middleAttack?,A) FloodingA server; B) Intercepting communication; C) Guessing passwords; D) Injecting SQL,Multiple choice,B,5,8
+212,What doesA firewall do?,A) Encrypts data; B) Filters network traffic; C) Compresses data; D) Backs up data,Multiple choice,B,5,8
+213,True or False:A secure password should be shortAnd simple.,A) True; B) False,True/False,B,5,8
+214,What does SSL stand for?,A) Secure Socket Layer; B) System Security Level; C) Safe Session Link; D) Standard Secure Layer,Multiple choice,A,5,8
+215,What isA digital certificate used for?,A) Data compression; B) Verify identity; C) Network routing; D) File storage,Multiple choice,B,5,8
+216,True or False: HTTPS is less secure than HTTP.,A) True; B) False,True/False,B,5,8
+217,WhichAttack exploits database vulnerabilities?,A) Phishing; B) SQL injection; C) DDoS; D) Brute force,Multiple choice,B,5,8
+218,What does XSS stand for?,A) Cross-Site Scripting; B) Extended Security System; C) Cross-Server Sharing; D) Extra Site Security,Multiple choice,A,5,8
+219,WhichAttack involves tricking users into sharing credentials?,A) Brute force; B) Phishing; C) DDoS; D) SQL injection,Multiple choice,B,5,8
+220,Which protocol secures file transfers?,A) FTP; B) SFTP; C) HTTP; D) SNMP,Multiple choice,B,5,8
+221,What is ransomware?,A)A firewall type; B) Malicious software demanding payment; C)A secure protocol; D)A VPN tool,Multiple choice,B,5,8
+222,WhichAttack floodsA server with requests?,A) Phishing; B) DDoS; C) SQL injection; D) Man-in-the-middle,Multiple choice,B,5,8
+223,True or False: Encryption ensures data confidentiality.,A) True; B) False,True/False,A,5,8
+224,True or False: Penetration testing simulatesAttacks.,A) True; B) False,True/False,A,5,8
+225,What is the purpose of two-factorAuthentication?,A) Faster login; B) Enhanced security; C) Data compression; D) Network routing,Multiple choice,B,5,8
+226,Which protocol secures web browsing?,A) HTTP; B) FTP; C) TLS; D) SMTP,Multiple choice,C,5,8
+227,Which technique is used to disguise data?,A) Hashing; B) Phishing; C) Encryption; D) Decryption,Multiple choice,C,5,8
+228,What does VPN stand for?,A) Virtual Private Network; B) Variable Packet Network; C) Virtual Public Node; D) Verified Protocol Network,Multiple choice,A,5,8
+229,Which tool is used for network packetAnalysis?,A) Metasploit; B) Wireshark; C) Nmap; D) Burp Suite,Multiple choice,B,5,8
+230,True or False:A hash function is reversible.,A) True; B) False,True/False,B,5,8
+231,Which tool scans for open ports?,A) Wireshark; B) Nmap; C) Metasploit; D) John the Ripper,Multiple choice,B,5,8
+232,Which protocol is used for secure email?,A) SMTP; B) IMAP; C) S/MIME; D) POP3,Multiple choice,C,5,8
+233,Which of these isA type of malware?,A) Firewall; B) Worm; C) VPN; D) Router,Multiple choice,B,5,8
+234,True or False: Social engineering manipulates human behavior.,A) True; B) False,True/False,A,5,8
+235,True or False:A VPN enhances network security.,A) True; B) False,True/False,A,5,8
+236,What does IDS stand for?,A) Intrusion Detection System; B) Internal Data Security; C) Internet Defense System; D) Intrusion Denial Service,Multiple choice,A,5,8
+237,True or False: Patching fixes software vulnerabilities.,A) True; B) False,True/False,A,5,8
+238,True or False:A brute forceAttack guesses passwords.,A) True; B) False,True/False,A,5,8
+239,What is the purpose ofA honeypot?,A) Encrypt data; B)AttractAttackers; C) Back up data; D) Route traffic,Multiple choice,B,5,8
+240,True or False:A keylogger records keystrokes.,A) True; B) False,True/False,A,5,8
+241,What does VPN stand for?,A) Virtual Private Network; B) Variable Packet Network; C) Virtual Public Node; D) Verified Protocol Network,Multiple choice,A,5,9
+242,True or False: Social engineering manipulates human behavior.,A) True; B) False,True/False,A,5,9
+243,True or False:A brute forceAttack guesses passwords.,A) True; B) False,True/False,A,5,9
+244,WhichAttack exploits database vulnerabilities?,A) Phishing; B) SQL injection; C) DDoS; D) Brute force,Multiple choice,B,5,9
+245,What isA digital certificate used for?,A) Data compression; B) Verify identity; C) Network routing; D) File storage,Multiple choice,B,5,9
+246,What isA man-in-the-middleAttack?,A) FloodingA server; B) Intercepting communication; C) Guessing passwords; D) Injecting SQL,Multiple choice,B,5,9
+247,What is ransomware?,A)A firewall type; B) Malicious software demanding payment; C)A secure protocol; D)A VPN tool,Multiple choice,B,5,9
+248,Which protocol secures file transfers?,A) FTP; B) SFTP; C) HTTP; D) SNMP,Multiple choice,B,5,9
+249,True or False:A hash function is reversible.,A) True; B) False,True/False,B,5,9
+250,True or False: Encryption ensures data confidentiality.,A) True; B) False,True/False,A,5,9
+251,True or False:A VPN enhances network security.,A) True; B) False,True/False,A,5,9
+252,True or False: HTTPS is less secure than HTTP.,A) True; B) False,True/False,B,5,9
+253,True or False: Penetration testing simulatesAttacks.,A) True; B) False,True/False,A,5,9
+254,True or False:A secure password should be shortAnd simple.,A) True; B) False,True/False,B,5,9
+255,WhichAttack involves tricking users into sharing credentials?,A) Brute force; B) Phishing; C) DDoS; D) SQL injection,Multiple choice,B,5,9
+256,Which tool scans for open ports?,A) Wireshark; B) Nmap; C) Metasploit; D) John the Ripper,Multiple choice,B,5,9
+257,True or False: Patching fixes software vulnerabilities.,A) True; B) False,True/False,A,5,9
+258,What does SSL stand for?,A) Secure Socket Layer; B) System Security Level; C) Safe Session Link; D) Standard Secure Layer,Multiple choice,A,5,9
+259,What does IDS stand for?,A) Intrusion Detection System; B) Internal Data Security; C) Internet Defense System; D) Intrusion Denial Service,Multiple choice,A,5,9
+260,Which of these isA type of malware?,A) Firewall; B) Worm; C) VPN; D) Router,Multiple choice,B,5,9
+261,What doesA firewall do?,A) Encrypts data; B) Filters network traffic; C) Compresses data; D) Backs up data,Multiple choice,B,5,9
+262,What is the purpose of two-factorAuthentication?,A) Faster login; B) Enhanced security; C) Data compression; D) Network routing,Multiple choice,B,5,9
+263,Which tool is used for network packetAnalysis?,A) Metasploit; B) Wireshark; C) Nmap; D) Burp Suite,Multiple choice,B,5,9
+264,What does XSS stand for?,A) Cross-Site Scripting; B) Extended Security System; C) Cross-Server Sharing; D) Extra Site Security,Multiple choice,A,5,9
+265,Which protocol is used for secure email?,A) SMTP; B) IMAP; C) S/MIME; D) POP3,Multiple choice,C,5,9
+266,True or False:A keylogger records keystrokes.,A) True; B) False,True/False,A,5,9
+267,Which protocol secures web browsing?,A) HTTP; B) FTP; C) TLS; D) SMTP,Multiple choice,C,5,9
+268,Which technique is used to disguise data?,A) Hashing; B) Phishing; C) Encryption; D) Decryption,Multiple choice,C,5,9
+269,WhichAttack floodsA server with requests?,A) Phishing; B) DDoS; C) SQL injection; D) Man-in-the-middle,Multiple choice,B,5,9
+270,What is the purpose ofA honeypot?,A) Encrypt data; B)AttractAttackers; C) Back up data; D) Route traffic,Multiple choice,B,5,9
+271,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,10
+272,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,10
+273,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,10
+274,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,10
+275,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,10
+276,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,10
+277,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,10
+278,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,10
+279,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,10
+280,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,10
+281,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,10
+282,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,10
+283,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,10
+284,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,10
+285,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,10
+286,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,10
+287,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,10
+288,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,10
+289,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,10
+290,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,10
+291,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,10
+292,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,10
+293,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,10
+294,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,10
+295,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,10
+296,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,10
+297,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,10
+298,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,10
+299,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,10
+300,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,10
+301,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,11
+302,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,11
+303,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,11
+304,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,11
+305,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,11
+306,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,11
+307,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,11
+308,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,11
+309,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,11
+310,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,11
+311,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,11
+312,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,11
+313,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,11
+314,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,11
+315,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,11
+316,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,11
+317,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,11
+318,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,11
+319,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,11
+320,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,11
+321,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,11
+322,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,11
+323,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,11
+324,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,11
+325,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,11
+326,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,11
+327,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,11
+328,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,11
+329,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,11
+330,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,11
+331,Which keyword is used to defineA function in Python?,A) func; B) define; C) def; D) function,Multiple choice,C,5,12
+332,True or False: Python uses indentation to define code blocks.,A) True; B) False,True/False,A,5,12
+333,What does the `len()` function return forA string?,A) Number of words; B) Number of characters; C) Number of spaces; D) Number of lines,Multiple choice,B,5,12
+334,True or False: Python’s `None` is equivalent to null in other languages.,A) True; B) False,True/False,A,5,12
+335,What is the output of: `print(list(range(3)))`?,"A) [1, 2, 3]; B) [0, 1, 2]; C) [0, 1, 2, 3]; D) [1, 2]",Multiple choice,B,5,12
+336,True or False: Python is case-sensitive.,A) True; B) False,True/False,A,5,12
+337,Which method sortsA list in place?,A) sorted(); B) sort(); C) order(); D)Arrange(),Multiple choice,B,5,12
+338,"What is the output of: `print([1, 2, 3].pop())`?","A) 1; B) 2; C) 3; D) [1, 2]",Multiple choice,C,5,12
+339,"What is the output of: `print({1: 'one', 2: 'two'}[1])`?",A) one; B) two; C) 1; D) KeyError,Multiple choice,A,5,12
+340,Which loop is used to iterate overA sequence in Python?,A) do-while; B) for; C) while-only; D) foreach,Multiple choice,B,5,12
+341,Which symbol is used for comments in Python?,A) //; B) /* */; C) #; D) <!-- -->,Multiple choice,C,5,12
+342,What is the output of: `print(3 // 2)` in Python?,A) 1; B) 1.5; C) 2; D) 0,Multiple choice,A,5,12
+343,Which of the following isA mutable data type in Python?,A) tuple; B) list; C) str; D) int,Multiple choice,B,5,12
+344,What does the `in` operator check in Python?,A) Division; B) Membership; C)Assignment; D) Comparison,Multiple choice,B,5,12
+345,Which keyword createsA class in Python?,A) class; B) struct; C) object; D) type,Multiple choice,A,5,12
+346,True or False: Python supports multiple inheritance?,A) True; B) False,True/False,A,5,12
+347,Which Python function convertsA string toAn integer?,A) str(); B) int(); C) float(); D) bool(),Multiple choice,B,5,12
+348,What does the `try-except` block handle in Python?,A) Syntax errors; B) Runtime errors; C) Logical errors; D) Compilation errors,Multiple choice,B,5,12
+349,What doesA list comprehension do?,A) Filters files; B) Creates lists; C) Defines functions; D) Handles exceptions,Multiple choice,B,5,12
+350,Which Python module is used for regular expressions?,A) math; B) re; C) os; D) sys,Multiple choice,B,5,12
+351,Which method removes the first occurrence ofAn element inA list?,A) pop(); B) remove(); C) delete(); D) discard(),Multiple choice,B,5,12
+352,Which methodAddsAn element toA list in Python?,A)Append(); B)Add(); C) insert(); D) BothAAnd C,Multiple choice,D,5,12
+353,What is the output of: `print(2 ** 3)` in Python?,A) 6; B) 8; C) 9; D) 5,Multiple choice,B,5,12
+354,True or False:A Python dictionary stores key-value pairs.,A) True; B) False,True/False,A,5,12
+355,What is the output of: `print('Hello'[1:3])`?,A) He; B) el; C) ll; D) lo,Multiple choice,B,5,12
+356,Which Python data type is unordered?,A) list; B) tuple; C) set; D) str,Multiple choice,C,5,12
+357,True or False: The `break` statement exitsA loop.,A) True; B) False,True/False,A,5,12
+358,Which operator checks equality in Python?,A) =; B) ==; C) :=; D) ===,Multiple choice,B,5,12
+359,"What is the output of: `print(len(set([1, 1, 2])))`?",A) 1; B) 2; C) 3; D) 4,Multiple choice,B,5,12
+360,True or False: Lists in PythonAre immutable.,A) True; B) False,True/False,B,5,12
+361,True or False: Python is case-sensitive.,A) True; B) False,True/False,A,5,13
+362,Which loop is used to iterate overA sequence in Python?,A) do-while; B) for; C) while-only; D) foreach,Multiple choice,B,5,13
+363,Which Python function convertsA string toAn integer?,A) str(); B) int(); C) float(); D) bool(),Multiple choice,B,5,13
+364,"What is the output of: `print(len(set([1, 1, 2])))`?",A) 1; B) 2; C) 3; D) 4,Multiple choice,B,5,13
+365,What does the `in` operator check in Python?,A) Division; B) Membership; C)Assignment; D) Comparison,Multiple choice,B,5,13
+366,True or False: Python supports multiple inheritance?,A) True; B) False,True/False,A,5,13
+367,"What is the output of: `print({1: 'one', 2: 'two'}[1])`?",A) one; B) two; C) 1; D) KeyError,Multiple choice,A,5,13
+368,Which operator checks equality in Python?,A) =; B) ==; C) :=; D) ===,Multiple choice,B,5,13
+369,True or False: Lists in PythonAre immutable.,A) True; B) False,True/False,B,5,13
+370,True or False:A Python dictionary stores key-value pairs.,A) True; B) False,True/False,A,5,13
+371,What is the output of: `print('Hello'[1:3])`?,A) He; B) el; C) ll; D) lo,Multiple choice,B,5,13
+372,True or False: Python uses indentation to define code blocks.,A) True; B) False,True/False,A,5,13
+373,What does the `len()` function return forA string?,A) Number of words; B) Number of characters; C) Number of spaces; D) Number of lines,Multiple choice,B,5,13
+374,Which method removes the first occurrence ofAn element inA list?,A) pop(); B) remove(); C) delete(); D) discard(),Multiple choice,B,5,13
+375,Which Python data type is unordered?,A) list; B) tuple; C) set; D) str,Multiple choice,C,5,13
+376,Which symbol is used for comments in Python?,A) //; B) /* */; C) #; D) <!-- -->,Multiple choice,C,5,13
+377,What does the `try-except` block handle in Python?,A) Syntax errors; B) Runtime errors; C) Logical errors; D) Compilation errors,Multiple choice,B,5,13
+378,Which methodAddsAn element toA list in Python?,A)Append(); B)Add(); C) insert(); D) BothAAnd C,Multiple choice,D,5,13
+379,Which of the following isA mutable data type in Python?,A) tuple; B) list; C) str; D) int,Multiple choice,B,5,13
+380,What is the output of: `print(list(range(3)))`?,"A) [1, 2, 3]; B) [0, 1, 2]; C) [0, 1, 2, 3]; D) [1, 2]",Multiple choice,B,5,13
+381,What doesA list comprehension do?,A) Filters files; B) Creates lists; C) Defines functions; D) Handles exceptions,Multiple choice,B,5,13
+382,Which Python module is used for regular expressions?,A) math; B) re; C) os; D) sys,Multiple choice,B,5,13
+383,"What is the output of: `print([1, 2, 3].pop())`?","A) 1; B) 2; C) 3; D) [1, 2]",Multiple choice,C,5,13
+384,Which keyword createsA class in Python?,A) class; B) struct; C) object; D) type,Multiple choice,A,5,13
+385,True or False: The `break` statement exitsA loop.,A) True; B) False,True/False,A,5,13
+386,Which method sortsA list in place?,A) sorted(); B) sort(); C) order(); D)Arrange(),Multiple choice,B,5,13
+387,What is the output of: `print(3 // 2)` in Python?,A) 1; B) 1.5; C) 2; D) 0,Multiple choice,A,5,13
+388,True or False: Python’s `None` is equivalent to null in other languages.,A) True; B) False,True/False,A,5,13
+389,What is the output of: `print(2 ** 3)` in Python?,A) 6; B) 8; C) 9; D) 5,Multiple choice,B,5,13
+390,Which keyword is used to defineA function in Python?,A) func; B) define; C) def; D) function,Multiple choice,C,5,13
+391,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,14
+392,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,14
+393,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,14
+394,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,14
+395,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,14
+396,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,14
+397,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,14
+398,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,14
+399,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,14
+400,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,14
+401,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,14
+402,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,14
+403,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,14
+404,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,14
+405,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,14
+406,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,14
+407,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,14
+408,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,14
+409,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,14
+410,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,14
+411,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,14
+412,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,14
+413,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,14
+414,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,14
+415,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,14
+416,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,14
+417,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,14
+418,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,14
+419,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,14
+420,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,14
+421,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,15
+422,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,15
+423,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,15
+424,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,15
+425,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,15
+426,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,15
+427,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,15
+428,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,15
+429,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,15
+430,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,15
+431,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,15
+432,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,15
+433,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,15
+434,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,15
+435,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,15
+436,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,15
+437,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,15
+438,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,15
+439,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,15
+440,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,15
+441,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,15
+442,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,15
+443,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,15
+444,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,15
+445,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,15
+446,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,15
+447,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,15
+448,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,15
+449,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,15
+450,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,15
+451,True or False: Python’s `None` is equivalent to null in other languages.,A) True; B) False,True/False,A,5,16
+452,What does the `in` operator check in Python?,A) Division; B) Membership; C)Assignment; D) Comparison,Multiple choice,B,5,16
+453,Which operator checks equality in Python?,A) =; B) ==; C) :=; D) ===,Multiple choice,B,5,16
+454,Which keyword createsA class in Python?,A) class; B) struct; C) object; D) type,Multiple choice,A,5,16
+455,True or False: Python uses indentation to define code blocks.,A) True; B) False,True/False,A,5,16
+456,True or False: Lists in PythonAre immutable.,A) True; B) False,True/False,B,5,16
+457,Which method removes the first occurrence ofAn element inA list?,A) pop(); B) remove(); C) delete(); D) discard(),Multiple choice,B,5,16
+458,What is the output of: `print(3 // 2)` in Python?,A) 1; B) 1.5; C) 2; D) 0,Multiple choice,A,5,16
+459,"What is the output of: `print([1, 2, 3].pop())`?","A) 1; B) 2; C) 3; D) [1, 2]",Multiple choice,C,5,16
+460,True or False: Python supports multiple inheritance?,A) True; B) False,True/False,A,5,16
+461,"What is the output of: `print(len(set([1, 1, 2])))`?",A) 1; B) 2; C) 3; D) 4,Multiple choice,B,5,16
+462,Which method sortsA list in place?,A) sorted(); B) sort(); C) order(); D)Arrange(),Multiple choice,B,5,16
+463,"What is the output of: `print({1: 'one', 2: 'two'}[1])`?",A) one; B) two; C) 1; D) KeyError,Multiple choice,A,5,16
+464,What is the output of: `print('Hello'[1:3])`?,A) He; B) el; C) ll; D) lo,Multiple choice,B,5,16
+465,True or False:A Python dictionary stores key-value pairs.,A) True; B) False,True/False,A,5,16
+466,Which Python module is used for regular expressions?,A) math; B) re; C) os; D) sys,Multiple choice,B,5,16
+467,What is the output of: `print(list(range(3)))`?,"A) [1, 2, 3]; B) [0, 1, 2]; C) [0, 1, 2, 3]; D) [1, 2]",Multiple choice,B,5,16
+468,True or False: The `break` statement exitsA loop.,A) True; B) False,True/False,A,5,16
+469,True or False: Python is case-sensitive.,A) True; B) False,True/False,A,5,16
+470,Which loop is used to iterate overA sequence in Python?,A) do-while; B) for; C) while-only; D) foreach,Multiple choice,B,5,16
+471,Which methodAddsAn element toA list in Python?,A)Append(); B)Add(); C) insert(); D) BothAAnd C,Multiple choice,D,5,16
+472,Which Python function convertsA string toAn integer?,A) str(); B) int(); C) float(); D) bool(),Multiple choice,B,5,16
+473,Which of the following isA mutable data type in Python?,A) tuple; B) list; C) str; D) int,Multiple choice,B,5,16
+474,Which keyword is used to defineA function in Python?,A) func; B) define; C) def; D) function,Multiple choice,C,5,16
+475,What doesA list comprehension do?,A) Filters files; B) Creates lists; C) Defines functions; D) Handles exceptions,Multiple choice,B,5,16
+476,What is the output of: `print(2 ** 3)` in Python?,A) 6; B) 8; C) 9; D) 5,Multiple choice,B,5,16
+477,What does the `len()` function return forA string?,A) Number of words; B) Number of characters; C) Number of spaces; D) Number of lines,Multiple choice,B,5,16
+478,What does the `try-except` block handle in Python?,A) Syntax errors; B) Runtime errors; C) Logical errors; D) Compilation errors,Multiple choice,B,5,16
+479,Which symbol is used for comments in Python?,A) //; B) /* */; C) #; D) <!-- -->,Multiple choice,C,5,16
+480,Which Python data type is unordered?,A) list; B) tuple; C) set; D) str,Multiple choice,C,5,16
+481,Which Python function convertsA string toAn integer?,A) str(); B) int(); C) float(); D) bool(),Multiple choice,B,5,17
+482,Which keyword is used to defineA function in Python?,A) func; B) define; C) def; D) function,Multiple choice,C,5,17
+483,Which symbol is used for comments in Python?,A) //; B) /* */; C) #; D) <!-- -->,Multiple choice,C,5,17
+484,What is the output of: `print(3 // 2)` in Python?,A) 1; B) 1.5; C) 2; D) 0,Multiple choice,A,5,17
+485,What does the `len()` function return forA string?,A) Number of words; B) Number of characters; C) Number of spaces; D) Number of lines,Multiple choice,B,5,17
+486,What is the output of: `print('Hello'[1:3])`?,A) He; B) el; C) ll; D) lo,Multiple choice,B,5,17
+487,True or False: Python’s `None` is equivalent to null in other languages.,A) True; B) False,True/False,A,5,17
+488,True or False:A Python dictionary stores key-value pairs.,A) True; B) False,True/False,A,5,17
+489,Which of the following isA mutable data type in Python?,A) tuple; B) list; C) str; D) int,Multiple choice,B,5,17
+490,Which operator checks equality in Python?,A) =; B) ==; C) :=; D) ===,Multiple choice,B,5,17
+491,Which method removes the first occurrence ofAn element inA list?,A) pop(); B) remove(); C) delete(); D) discard(),Multiple choice,B,5,17
+492,True or False: Python uses indentation to define code blocks.,A) True; B) False,True/False,A,5,17
+493,Which keyword createsA class in Python?,A) class; B) struct; C) object; D) type,Multiple choice,A,5,17
+494,What is the output of: `print(list(range(3)))`?,"A) [1, 2, 3]; B) [0, 1, 2]; C) [0, 1, 2, 3]; D) [1, 2]",Multiple choice,B,5,17
+495,Which loop is used to iterate overA sequence in Python?,A) do-while; B) for; C) while-only; D) foreach,Multiple choice,B,5,17
+496,"What is the output of: `print([1, 2, 3].pop())`?","A) 1; B) 2; C) 3; D) [1, 2]",Multiple choice,C,5,17
+497,What doesA list comprehension do?,A) Filters files; B) Creates lists; C) Defines functions; D) Handles exceptions,Multiple choice,B,5,17
+498,What is the output of: `print(2 ** 3)` in Python?,A) 6; B) 8; C) 9; D) 5,Multiple choice,B,5,17
+499,True or False: Lists in PythonAre immutable.,A) True; B) False,True/False,B,5,17
+500,Which Python data type is unordered?,A) list; B) tuple; C) set; D) str,Multiple choice,C,5,17
+501,True or False: Python is case-sensitive.,A) True; B) False,True/False,A,5,17
+502,What does the `in` operator check in Python?,A) Division; B) Membership; C)Assignment; D) Comparison,Multiple choice,B,5,17
+503,Which methodAddsAn element toA list in Python?,A)Append(); B)Add(); C) insert(); D) BothAAnd C,Multiple choice,D,5,17
+504,True or False: The `break` statement exitsA loop.,A) True; B) False,True/False,A,5,17
+505,"What is the output of: `print({1: 'one', 2: 'two'}[1])`?",A) one; B) two; C) 1; D) KeyError,Multiple choice,A,5,17
+506,Which method sortsA list in place?,A) sorted(); B) sort(); C) order(); D)Arrange(),Multiple choice,B,5,17
+507,What does the `try-except` block handle in Python?,A) Syntax errors; B) Runtime errors; C) Logical errors; D) Compilation errors,Multiple choice,B,5,17
+508,"What is the output of: `print(len(set([1, 1, 2])))`?",A) 1; B) 2; C) 3; D) 4,Multiple choice,B,5,17
+509,Which Python module is used for regular expressions?,A) math; B) re; C) os; D) sys,Multiple choice,B,5,17
+510,True or False: Python supports multiple inheritance?,A) True; B) False,True/False,A,5,17
+511,Which Python function convertsA string toAn integer?,A) str(); B) int(); C) float(); D) bool(),Multiple choice,B,5,18
+512,Which operator checks equality in Python?,A) =; B) ==; C) :=; D) ===,Multiple choice,B,5,18
+513,Which method sortsA list in place?,A) sorted(); B) sort(); C) order(); D)Arrange(),Multiple choice,B,5,18
+514,True or False: The `break` statement exitsA loop.,A) True; B) False,True/False,A,5,18
+515,Which loop is used to iterate overA sequence in Python?,A) do-while; B) for; C) while-only; D) foreach,Multiple choice,B,5,18
+516,Which methodAddsAn element toA list in Python?,A)Append(); B)Add(); C) insert(); D) BothAAnd C,Multiple choice,D,5,18
+517,What does the `in` operator check in Python?,A) Division; B) Membership; C)Assignment; D) Comparison,Multiple choice,B,5,18
+518,"What is the output of: `print([1, 2, 3].pop())`?","A) 1; B) 2; C) 3; D) [1, 2]",Multiple choice,C,5,18
+519,True or False: Python uses indentation to define code blocks.,A) True; B) False,True/False,A,5,18
+520,Which of the following isA mutable data type in Python?,A) tuple; B) list; C) str; D) int,Multiple choice,B,5,18
+521,What is the output of: `print(list(range(3)))`?,"A) [1, 2, 3]; B) [0, 1, 2]; C) [0, 1, 2, 3]; D) [1, 2]",Multiple choice,B,5,18
+522,What is the output of: `print('Hello'[1:3])`?,A) He; B) el; C) ll; D) lo,Multiple choice,B,5,18
+523,"What is the output of: `print(len(set([1, 1, 2])))`?",A) 1; B) 2; C) 3; D) 4,Multiple choice,B,5,18
+524,Which keyword is used to defineA function in Python?,A) func; B) define; C) def; D) function,Multiple choice,C,5,18
+525,Which Python module is used for regular expressions?,A) math; B) re; C) os; D) sys,Multiple choice,B,5,18
+526,What is the output of: `print(3 // 2)` in Python?,A) 1; B) 1.5; C) 2; D) 0,Multiple choice,A,5,18
+527,True or False: Python’s `None` is equivalent to null in other languages.,A) True; B) False,True/False,A,5,18
+528,True or False:A Python dictionary stores key-value pairs.,A) True; B) False,True/False,A,5,18
+529,True or False: Lists in PythonAre immutable.,A) True; B) False,True/False,B,5,18
+530,What is the output of: `print(2 ** 3)` in Python?,A) 6; B) 8; C) 9; D) 5,Multiple choice,B,5,18
+531,What does the `len()` function return forA string?,A) Number of words; B) Number of characters; C) Number of spaces; D) Number of lines,Multiple choice,B,5,18
+532,True or False: Python supports multiple inheritance?,A) True; B) False,True/False,A,5,18
+533,Which method removes the first occurrence ofAn element inA list?,A) pop(); B) remove(); C) delete(); D) discard(),Multiple choice,B,5,18
+534,Which Python data type is unordered?,A) list; B) tuple; C) set; D) str,Multiple choice,C,5,18
+535,Which keyword createsA class in Python?,A) class; B) struct; C) object; D) type,Multiple choice,A,5,18
+536,Which symbol is used for comments in Python?,A) //; B) /* */; C) #; D) <!-- -->,Multiple choice,C,5,18
+537,"What is the output of: `print({1: 'one', 2: 'two'}[1])`?",A) one; B) two; C) 1; D) KeyError,Multiple choice,A,5,18
+538,What doesA list comprehension do?,A) Filters files; B) Creates lists; C) Defines functions; D) Handles exceptions,Multiple choice,B,5,18
+539,True or False: Python is case-sensitive.,A) True; B) False,True/False,A,5,18
+540,What does the `try-except` block handle in Python?,A) Syntax errors; B) Runtime errors; C) Logical errors; D) Compilation errors,Multiple choice,B,5,18
+541,True or False: The `break` statement exitsA loop.,A) True; B) False,True/False,A,5,19
+542,"What is the output of: `print([1, 2, 3].pop())`?","A) 1; B) 2; C) 3; D) [1, 2]",Multiple choice,C,5,19
+543,What does the `len()` function return forA string?,A) Number of words; B) Number of characters; C) Number of spaces; D) Number of lines,Multiple choice,B,5,19
+544,Which symbol is used for comments in Python?,A) //; B) /* */; C) #; D) <!-- -->,Multiple choice,C,5,19
+545,Which operator checks equality in Python?,A) =; B) ==; C) :=; D) ===,Multiple choice,B,5,19
+546,Which Python function convertsA string toAn integer?,A) str(); B) int(); C) float(); D) bool(),Multiple choice,B,5,19
+547,Which keyword is used to defineA function in Python?,A) func; B) define; C) def; D) function,Multiple choice,C,5,19
+548,Which loop is used to iterate overA sequence in Python?,A) do-while; B) for; C) while-only; D) foreach,Multiple choice,B,5,19
+549,What is the output of: `print(list(range(3)))`?,"A) [1, 2, 3]; B) [0, 1, 2]; C) [0, 1, 2, 3]; D) [1, 2]",Multiple choice,B,5,19
+550,True or False: Python uses indentation to define code blocks.,A) True; B) False,True/False,A,5,19
+551,True or False: Python’s `None` is equivalent to null in other languages.,A) True; B) False,True/False,A,5,19
+552,"What is the output of: `print({1: 'one', 2: 'two'}[1])`?",A) one; B) two; C) 1; D) KeyError,Multiple choice,A,5,19
+553,Which Python module is used for regular expressions?,A) math; B) re; C) os; D) sys,Multiple choice,B,5,19
+554,Which Python data type is unordered?,A) list; B) tuple; C) set; D) str,Multiple choice,C,5,19
+555,True or False: Python is case-sensitive.,A) True; B) False,True/False,A,5,19
+556,"What is the output of: `print(len(set([1, 1, 2])))`?",A) 1; B) 2; C) 3; D) 4,Multiple choice,B,5,19
+557,What doesA list comprehension do?,A) Filters files; B) Creates lists; C) Defines functions; D) Handles exceptions,Multiple choice,B,5,19
+558,What is the output of: `print(2 ** 3)` in Python?,A) 6; B) 8; C) 9; D) 5,Multiple choice,B,5,19
+559,True or False:A Python dictionary stores key-value pairs.,A) True; B) False,True/False,A,5,19
+560,What does the `in` operator check in Python?,A) Division; B) Membership; C)Assignment; D) Comparison,Multiple choice,B,5,19
+561,What does the `try-except` block handle in Python?,A) Syntax errors; B) Runtime errors; C) Logical errors; D) Compilation errors,Multiple choice,B,5,19
+562,What is the output of: `print('Hello'[1:3])`?,A) He; B) el; C) ll; D) lo,Multiple choice,B,5,19
+563,What is the output of: `print(3 // 2)` in Python?,A) 1; B) 1.5; C) 2; D) 0,Multiple choice,A,5,19
+564,Which methodAddsAn element toA list in Python?,A)Append(); B)Add(); C) insert(); D) BothAAnd C,Multiple choice,D,5,19
+565,Which keyword createsA class in Python?,A) class; B) struct; C) object; D) type,Multiple choice,A,5,19
+566,True or False: Python supports multiple inheritance?,A) True; B) False,True/False,A,5,19
+567,Which method removes the first occurrence ofAn element inA list?,A) pop(); B) remove(); C) delete(); D) discard(),Multiple choice,B,5,19
+568,True or False: Lists in PythonAre immutable.,A) True; B) False,True/False,B,5,19
+569,Which method sortsA list in place?,A) sorted(); B) sort(); C) order(); D)Arrange(),Multiple choice,B,5,19
+570,Which of the following isA mutable data type in Python?,A) tuple; B) list; C) str; D) int,Multiple choice,B,5,19
+571,What is the default port for SMTP?,A) 25; B) 80; C) 110; D) 143,Multiple choice,A,5,20
+572,What does ICMP stand for?,A) Internet Control Message Protocol; B) Internal Communication Protocol; C) Internet Connection Management Protocol; D) Inter-Computer Message Protocol,Multiple choice,A,5,20
+573,True or False:A hub broadcasts data toAll connected devices.,A) True; B) False,True/False,A,5,20
+574,What is the purpose ofA MACAddress?,A) Route packets; B) Identify devices onA network; C) Encrypt data; D)Assign IPAddresses,Multiple choice,B,5,20
+575,True or False: FTP is used to transfer files between clientAnd server.,A) True; B) False,True/False,A,5,20
+576,True or False:A router operatesAt the Data Link layer.,A) True; B) False,True/False,B,5,20
+577,What is the default port for HTTP?,A) 21; B) 80; C) 443; D) 8080,Multiple choice,B,5,20
+578,Which layer of the OSI model handles data encryption?,A) Network; B) Transport; C) Presentation; D)Application,Multiple choice,C,5,20
+579,Which layer of the OSI model does IP belong to?,A) Transport; B) Network; C) Data Link; D) Session,Multiple choice,B,5,20
+580,True or False: IPv6 uses 128-bitAddresses.,A) True; B) False,True/False,A,5,20
+581,Which port is used by SSH?,A) 21; B) 22; C) 23; D) 80,Multiple choice,B,5,20
+582,True or False: NAT translates private IPAddresses to public ones.,A) True; B) False,True/False,A,5,20
+583,True or False:A switch operatesAt the Network layer.,A) True; B) False,True/False,B,5,20
+584,Which protocol is used for network management?,A) SMTP; B) SNMP; C) FTP; D) HTTP,Multiple choice,B,5,20
+585,What does DNS stand for?,A) Dynamic Network Service; B) Domain Name System; C) Data Network Standard; D) Distributed Name Service,Multiple choice,B,5,20
+586,What isA VLAN?,A) Virtual LocalArea Network; B) Variable LinkAccess Network; C) Virtual LineAuthentication Node; D) Vector LocalAccess Network,Multiple choice,A,5,20
+587,True or False: TCP is connectionless.,A) True; B) False,True/False,B,5,20
+588,What does DHCP do?,A) Resolves domain names; B)Assigns IPAddresses; C) Filters packets; D) Encrypts data,Multiple choice,B,5,20
+589,Which protocol ensures reliable data transfer?,A) UDP; B) TCP; C) ICMP; D) FTP,Multiple choice,B,5,20
+590,True or False: UDP is faster than TCP.,A) True; B) False,True/False,A,5,20
+591,True or False:A gateway connects different network protocols.,A) True; B) False,True/False,A,5,20
+592,What is the purpose ofA subnet mask?,A) Encrypt data; B) Divide networks; C)Assign IPAddresses; D) Route packets,Multiple choice,B,5,20
+593,Which protocol resolves IPAddresses to MACAddresses?,A) DNS; B) DHCP; C)ARP; D) SNMP,Multiple choice,C,5,20
+594,Which device connects multiple networks?,A) Switch; B) Hub; C) Router; D) Repeater,Multiple choice,C,5,20
+595,Which port is used by FTP?,A) 21; B) 22; C) 80; D) 443,Multiple choice,A,5,20
+596,Which protocol is used for email sending?,A) IMAP; B) POP3; C) SMTP; D) SNMP,Multiple choice,C,5,20
+597,What doesARP stand for?,A)Address Resolution Protocol; B)Access Routing Protocol; C)Application Request Protocol; D)Address Request Protocol,Multiple choice,A,5,20
+598,Which protocol uses port 443?,A) HTTP; B) HTTPS; C) FTP; D) SSH,Multiple choice,B,5,20
+599,True or False:A firewall can block specific ports.,A) True; B) False,True/False,A,5,20
+600,What does QoS stand for?,A) Quality of Service; B) Quantity of Systems; C) Query of Servers; D) Queue of Signals,Multiple choice,A,5,20
+601,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,21
+602,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,21
+603,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,21
+604,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,21
+605,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,21
+606,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,21
+607,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,21
+608,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,21
+609,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,21
+610,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,21
+611,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,21
+612,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,21
+613,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,21
+614,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,21
+615,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,21
+616,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,21
+617,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,21
+618,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,21
+619,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,21
+620,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,21
+621,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,21
+622,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,21
+623,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,21
+624,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,21
+625,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,21
+626,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,21
+627,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,21
+628,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,21
+629,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,21
+630,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,21
+631,Which SQL clause sorts query results?,A) WHERE; B) ORDER BY; C) GROUP BY; D) HAVING,Multiple choice,B,5,22
+632,Which SQL clause filters rowsAfter grouping?,A) WHERE; B) HAVING; C) GROUP BY; D) ORDER BY,Multiple choice,B,5,22
+633,Which SQL function finds the maximum value?,A) MAX(); B) MIN(); C)AVG(); D) SUM(),Multiple choice,A,5,22
+634,True or False:A composite key consists of multiple columns.,A) True; B) False,True/False,A,5,22
+635,True or False: Indexes can speed up queries.,A) True; B) False,True/False,A,5,22
+636,Which command createsA new table in SQL?,A)ADD TABLE; B) CREATE TABLE; C) NEW TABLE; D) INSERT TABLE,Multiple choice,B,5,22
+637,True or False:A primary key can contain NULL values.,A) True; B) False,True/False,B,5,22
+638,What does the LIKE operator do in SQL?,A) Joins tables; B) Matches patterns; C) Sorts data; D) Groups data,Multiple choice,B,5,22
+639,True or False: Normalization reduces data redundancy.,A) True; B) False,True/False,A,5,22
+640,True or False:A view isA physical table.,A) True; B) False,True/False,B,5,22
+641,What is the purpose ofA JOIN in SQL?,A) Delete records; B) Combine rows from multiple tables; C) Update records; D) CreateA new table,Multiple choice,B,5,22
+642,What isA database schema?,A)A query; B)A table structure; C)A database structure; D)A data type,Multiple choice,C,5,22
+643,Which SQL clause filters rows before grouping?,A) HAVING; B) WHERE; C) ORDER BY; D) GROUP BY,Multiple choice,B,5,22
+644,What does SQL stand for?,A) Simple Query Language; B) Structured Query Language; C) System Query List; D) Statement Question Language,Multiple choice,B,5,22
+645,True or False:A transaction ensures data consistency.,A) True; B) False,True/False,A,5,22
+646,What does the GROUP BY clause do?,A) Filters rows; B) Sorts rows; C) Groups rows by column values; D) Joins tables,Multiple choice,C,5,22
+647,What does the SELECT statement do?,A) Updates data; B) Retrieves data; C) Deletes data; D) Inserts data,Multiple choice,B,5,22
+648,True or False:A foreign key enforces referential integrity.,A) True; B) False,True/False,A,5,22
+649,Which SQL function counts rows?,A) SUM(); B) COUNT(); C)AVG(); D) MAX(),Multiple choice,B,5,22
+650,What isA trigger in SQL?,A)A data type; B)AnAutomaticAction; C)A query; D)A table,Multiple choice,B,5,22
+651,What does theALTER TABLE command do?,A) DeletesA table; B) ModifiesA table structure; C) Inserts data; D) Retrieves data,Multiple choice,B,5,22
+652,Which SQL command deletesA table?,A) DELETE; B) DROP; C) TRUNCATE; D) REMOVE,Multiple choice,B,5,22
+653,What does the UNION operator do?,A) Combines rows from multiple queries; B) Joins tables; C) Filters rows; D) Sorts results,Multiple choice,A,5,22
+654,True or False:A database view can be updated.,A) True; B) False,True/False,A,5,22
+655,True or False:A clustered index determines physical data order.,A) True; B) False,True/False,A,5,22
+656,What isA stored procedure in SQL?,A)A temporary table; B)A precompiled query; C)A data type; D)An index,Multiple choice,B,5,22
+657,Which command removesAll records fromA table?,A) DELETE; B) DROP; C) TRUNCATE; D) REMOVE,Multiple choice,C,5,22
+658,Which type of join returnsAll rows from both tables?,A) INNER JOIN; B) LEFT JOIN; C) RIGHT JOIN; D) FULL JOIN,Multiple choice,D,5,22
+659,Which SQL command updates existing records?,A) INSERT; B) UPDATE; C)ALTER; D) MODIFY,Multiple choice,B,5,22
+660,Which SQL commandAdds new rows toA table?,A) INSERT; B) UPDATE; C)ALTER; D) SELECT,Multiple choice,A,5,22
+661,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,23
+662,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,23
+663,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,23
+664,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,23
+665,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,23
+666,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,23
+667,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,23
+668,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,23
+669,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,23
+670,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,23
+671,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,23
+672,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,23
+673,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,23
+674,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,23
+675,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,23
+676,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,23
+677,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,23
+678,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,23
+679,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,23
+680,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,23
+681,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,23
+682,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,23
+683,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,23
+684,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,23
+685,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,23
+686,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,23
+687,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,23
+688,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,23
+689,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,23
+690,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,23
+691,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,24
+692,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,24
+693,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,24
+694,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,24
+695,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,24
+696,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,24
+697,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,24
+698,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,24
+699,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,24
+700,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,24
+701,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,24
+702,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,24
+703,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,24
+704,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,24
+705,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,24
+706,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,24
+707,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,24
+708,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,24
+709,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,24
+710,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,24
+711,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,24
+712,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,24
+713,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,24
+714,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,24
+715,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,24
+716,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,24
+717,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,24
+718,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,24
+719,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,24
+720,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,24
+721,Which library is used in Python for data manipulation?,A) numpy; B) pandas; C) matplotlib; D) scikit-learn,Multiple choice,B,5,25
+722,True or False: Clustering groups similar data points.,A) True; B) False,True/False,A,5,25
+723,What does the `groupby()` method in pandas do?,A) Sorts data; B) Groups data by column values; C) Filters data; D) Plots data,Multiple choice,B,5,25
+724,True or False: Cross-validation improves model generalization.,A) True; B) False,True/False,A,5,25
+725,True or False: One-hot encoding converts categorical data to numerical.,A) True; B) False,True/False,A,5,25
+726,Which library supportsAdvanced visualizations?,A) numpy; B) pandas; C) seaborn; D) scikit-learn,Multiple choice,C,5,25
+727,WhichAlgorithm is used forAnomaly detection?,A) Linear Regression; B) Isolation Forest; C) Logistic Regression; D) SVM,Multiple choice,B,5,25
+728,True or False: SVM can handle non-linear data.,A) True; B) False,True/False,A,5,25
+729,What is bias in machine learning?,A) Model complexity; B) Systematic error; C) Random error; D) Data size,Multiple choice,B,5,25
+730,What isA hyperparameter in machine learning?,A)A model prediction; B)A configuration set before training; C)A dataset feature; D)A training output,Multiple choice,B,5,25
+731,Which library is used for machine learning in Python?,A) numpy; B) pandas; C) scikit-learn; D) matplotlib,Multiple choice,C,5,25
+732,Which metric evaluates classificationAccuracy?,A) Mean Squared Error; B) R-squared; C) Precision; D) Variance,Multiple choice,C,5,25
+733,True or False:A decision tree can be used for regression.,A) True; B) False,True/False,A,5,25
+734,True or False:A random forest isAn ensemble method.,A) True; B) False,True/False,A,5,25
+735,True or False: Supervised learning requires labeled data.,A) True; B) False,True/False,A,5,25
+736,What is the purpose of train-test split?,A) Data cleaning; B) Model evaluation; C) Feature selection; D) Data visualization,Multiple choice,B,5,25
+737,True or False: Overfitting occurs whenA model is too complex.,A) True; B) False,True/False,A,5,25
+738,What does ROC stand for?,A) Receiver Operating Characteristic; B) Random Output Curve; C) Regression Optimization Criterion; D) Recall Operating Curve,Multiple choice,A,5,25
+739,What does PCA stand for?,A) Principal ComponentAnalysis; B) Predictive ClusteringAlgorithm; C) Partial CorrelationAnalysis; D) Primary ComponentAdjustment,Multiple choice,A,5,25
+740,What does the `describe()` method in pandas do?,A) Plots data; B) Summarizes statistics; C) Cleans data; D) Merges dataframes,Multiple choice,B,5,25
+741,WhichAlgorithm minimizesA cost function?,A) K-Means; B) Gradient Descent; C) Decision Trees; D) PCA,Multiple choice,B,5,25
+742,What does the `dropna()` method in pandas do?,A) Drops duplicate rows; B) Drops missing values; C) Drops columns; D) Drops rows with zeros,Multiple choice,B,5,25
+743,True or False: K-Means isA supervised learningAlgorithm.,A) True; B) False,True/False,B,5,25
+744,Which method imputes missing values in pandas?,A) fillna(); B) dropna(); C) replace(); D) interpolate(),Multiple choice,A,5,25
+745,What is the purpose of feature scaling?,A) Reduce dataset size; B) Normalize data ranges; C) Remove outliers; D) Encrypt data,Multiple choice,B,5,25
+746,WhichAlgorithm is used for classification problems?,A) K-Means; B) Linear Regression; C) Decision Trees; D) PCA,Multiple choice,C,5,25
+747,True or False:A neural network requires feature engineering.,A) True; B) False,True/False,B,5,25
+748,WhichAlgorithm is unsupervised?,A) Decision Trees; B) K-Means; C) Logistic Regression; D) SVM,Multiple choice,B,5,25
+749,Which library is used for plotting in Python?,A) numpy; B) pandas; C) matplotlib; D) seaborn,Multiple choice,C,5,25
+750,What is the purpose ofA confusion matrix?,A) Data visualization; B) Model evaluation; C) Data cleaning; D) Feature selection,Multiple choice,B,5,25

@@ -1,0 +1,20 @@
+NID,Full_Name,Gender,Birth_Date,Phone,Email,City,Salary,Department_ID
+1,Mohamed Hassan,M,1997-09-12,1237998652,mohamed.hassan@iti.edu.eg,Suez,15000,1
+2,Laila Samir,F,1992-10-23,1107310419,laila.samir@iti.edu.eg,Gharbia,12000,6
+3,Yasmin Ali,F,1999-09-04,1079396859,yasmin.ali@iti.edu.eg,Aswan,10000,5
+4,Sara Mahmoud,F,1983-03-24,1106865338,sara.mahmoud@iti.edu.eg,Dakahlia,18000,2
+5,Mahmoud Khaled,M,1973-11-23,1502617279,mahmoud.khaled@iti.edu.eg,Aswan,15000,1
+6,Khaled Youssef,M,1996-09-30,1005855805,khaled.youssef@iti.edu.eg,Suez,13000,3
+7,Heba Said,F,1998-12-02,1088744808,heba.said@iti.edu.eg,Alexandria,15000,6
+8,Mostafa Kamal,M,1998-11-08,1272431999,mostafa.kamal@iti.edu.eg,Sohag,15000,3
+9,Hassan Mohamed,M,1987-08-03,1206241669,hassan.mohamed@iti.edu.eg,South Sinai,15000,2
+10,Mariam Adel,F,1973-03-14,1025661094,mariam.adel@iti.edu.eg,Dakahlia,14000,4
+11,Aya Shereef,F,1973-02-20,1577963303,aya.shereef@iti.edu.eg,North Sinai,15000,5
+12,Sara Mohamed,F,1983-07-28,1534344032,sara.mohamed@iti.edu.eg,Beni Suef,15000,3
+13,Mahmoud Hamed,M,1971-02-16,1567701843,mahmoud.hamed@iti.edu.eg,North Sinai,17000,1
+14,Mohamed Ali,M,1978-09-09,1221619903,mohamed.ali@iti.edu.eg,Cairo,15000,2
+15,Mahmoud Ibrahim,M,1979-05-05,1079753049,mahmoud.ibrahim@iti.edu.eg,Beni Suef,12000,4
+16,Tamer Sabry,M,1970-05-18,1585440098,tamer.sabry@iti.edu.eg,Cairo,15000,5
+17,Mona Ali,F,1972-11-12,1016402323,mona.ali@iti.edu.eg,Kafr El Sheikh,11000,1
+18,Mona Fathy,F,1994-03-14,1284859554,mona.fathy@iti.edu.eg,Port Said,15000,2
+20,Ahmed Ali,M,1998-03-28,1245980430,ahmed.ali@iti.edu.eg,Damietta,15000,3
